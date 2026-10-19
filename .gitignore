@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Secrets ###
+*.jks
+.env
+
+
+
+# Logs
+*.log
